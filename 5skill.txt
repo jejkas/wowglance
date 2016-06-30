@@ -1,0 +1,1378 @@
+6/29 22:03:27.229  You hit Theramore Combat Dummy for 51.
+6/29 22:03:27.496  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:03:29.465  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:03:30.533  You hit Theramore Combat Dummy for 55.
+6/29 22:03:32.902  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:03:33.919  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:03:35.871  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:03:36.056  You hit Theramore Combat Dummy for 67.
+6/29 22:03:36.956  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:03:37.140  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:03:38.324  You hit Theramore Combat Dummy for 66.
+6/29 22:03:41.026  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:03:42.095  You hit Theramore Combat Dummy for 55.
+6/29 22:03:43.113  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:03:43.647  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:03:45.849  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:03:46.366  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:03:47.466  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:03:48.518  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:03:48.952  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:03:49.653  You hit Theramore Combat Dummy for 52.
+6/29 22:03:50.654  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:03:51.038  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:03:51.687  You hit Theramore Combat Dummy for 55.
+6/29 22:03:53.707  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:03:55.192  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:03:55.742  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:03:56.293  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:03:57.778  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:03:58.327  You hit Theramore Combat Dummy for 71.
+6/29 22:03:59.412  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:03:59.863  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:04:00.981  You hit Theramore Combat Dummy for 54.
+6/29 22:04:02.711  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:04:03.750  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:04:05.302  You hit Theramore Combat Dummy for 52.
+6/29 22:04:06.369  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:04:07.404  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:04:08.991  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:04:09.990  You hit Theramore Combat Dummy for 68.
+6/29 22:04:11.041  You hit Theramore Combat Dummy for 69.
+6/29 22:04:12.126  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:04:12.658  You hit Theramore Combat Dummy for 54.
+6/29 22:04:13.210  You hit Theramore Combat Dummy for 68.
+6/29 22:04:13.693  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:04:15.362  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:04:15.812  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:04:16.363  You hit Theramore Combat Dummy for 72.
+6/29 22:04:17.481  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:04:17.914  You hit Theramore Combat Dummy for 53.
+6/29 22:04:18.967  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:04:19.600  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:04:23.070  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:04:23.903  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:04:25.005  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:04:26.374  You hit Theramore Combat Dummy for 55.
+6/29 22:04:28.475  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:04:30.277  You hit Theramore Combat Dummy for 70.
+6/29 22:04:31.544  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:04:32.362  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:04:33.382  You hit Theramore Combat Dummy for 72.
+6/29 22:04:34.482  You hit Theramore Combat Dummy for 66.
+6/29 22:04:34.733  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:04:35.550  You hit Theramore Combat Dummy for 66.
+6/29 22:04:35.801  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:04:36.601  You hit Theramore Combat Dummy for 71.
+6/29 22:04:37.752  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:04:38.752  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:04:38.969  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:04:40.187  You hit Theramore Combat Dummy for 49.
+6/29 22:04:41.322  You hit Theramore Combat Dummy for 52.
+6/29 22:04:42.423  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:04:43.457  You hit Theramore Combat Dummy for 53.
+6/29 22:04:44.192  You hit Theramore Combat Dummy for 73.
+6/29 22:04:44.525  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:04:47.377  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:04:48.747  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:04:50.515  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:04:50.815  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:04:51.816  You hit Theramore Combat Dummy for 49.
+6/29 22:04:53.017  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:04:53.535  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:04:54.001  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:04:55.019  You hit Theramore Combat Dummy for 55.
+6/29 22:04:56.654  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:04:57.088  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:04:58.238  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:04:59.724  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:05:00.841  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:05:01.343  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:05:01.876  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:05:02.911  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:05:03.962  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:05:06.080  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:05:08.249  You hit Theramore Combat Dummy for 70.
+6/29 22:05:10.402  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:05:11.436  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:05:12.971  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:05:13.505  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:05:14.021  You hit Theramore Combat Dummy for 52.
+6/29 22:05:14.589  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:05:15.606  You hit Theramore Combat Dummy for 68.
+6/29 22:05:16.207  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:05:16.641  You hit Theramore Combat Dummy for 67.
+6/29 22:05:17.692  You hit Theramore Combat Dummy for 71.
+6/29 22:05:18.293  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:05:19.360  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:05:19.828  You hit Theramore Combat Dummy for 74.
+6/29 22:05:20.445  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:05:20.912  You hit Theramore Combat Dummy for 67.
+6/29 22:05:21.480  You hit Theramore Combat Dummy for 52.
+6/29 22:05:22.581  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:05:24.100  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:05:24.750  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:05:25.184  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:05:26.754  You hit Theramore Combat Dummy for 50.
+6/29 22:05:27.286  You hit Theramore Combat Dummy for 71.
+6/29 22:05:27.836  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:05:29.304  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:05:29.939  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:05:30.389  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:05:30.972  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:05:31.457  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:05:32.057  You hit Theramore Combat Dummy for 55.
+6/29 22:05:32.523  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:05:33.107  You hit Theramore Combat Dummy for 49.
+6/29 22:05:33.558  You hit Theramore Combat Dummy for 66.
+6/29 22:05:34.576  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:05:35.227  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:05:36.677  You hit Theramore Combat Dummy for 74.
+6/29 22:05:37.362  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:05:38.764  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:05:39.882  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:05:40.615  You hit Theramore Combat Dummy for 55.
+6/29 22:05:40.983  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:05:41.684  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:05:42.050  You hit Theramore Combat Dummy for 68.
+6/29 22:05:42.701  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:05:44.086  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:05:44.860  You hit Theramore Combat Dummy for 53.
+6/29 22:05:45.253  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:05:45.904  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:05:46.255  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:05:47.272  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:05:49.023  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:05:49.340  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:05:51.510  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:05:52.178  You hit Theramore Combat Dummy for 51.
+6/29 22:05:52.544  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:05:53.212  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:05:54.245  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:05:54.596  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:05:55.699  You hit Theramore Combat Dummy for 69.
+6/29 22:05:56.449  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:05:58.585  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:05:59.669  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:05:59.901  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:06:00.686  You hit Theramore Combat Dummy for 52.
+6/29 22:06:00.920  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:06:01.687  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:06:02.788  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:06:03.189  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:06:05.375  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:06:06.093  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:06:06.409  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:06:07.143  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:06:07.510  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:06:08.177  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:06:10.679  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:06:11.731  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:06:12.465  You hit Theramore Combat Dummy for 53.
+6/29 22:06:12.866  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:06:13.517  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:06:13.899  You hit Theramore Combat Dummy for 74.
+6/29 22:06:14.601  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:06:15.068  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:06:15.701  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:06:16.769  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:06:17.803  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:06:18.187  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:06:20.957  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:06:21.291  You hit Theramore Combat Dummy for 69.
+6/29 22:06:21.989  You hit Theramore Combat Dummy for 55.
+6/29 22:06:22.992  You hit Theramore Combat Dummy for 52.
+6/29 22:06:24.444  You hit Theramore Combat Dummy for 67.
+6/29 22:06:25.160  You hit Theramore Combat Dummy for 54.
+6/29 22:06:26.245  You hit Theramore Combat Dummy for 53.
+6/29 22:06:26.579  You hit Theramore Combat Dummy for 71.
+6/29 22:06:27.246  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:06:27.614  You hit Theramore Combat Dummy for 71.
+6/29 22:06:28.282  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:06:29.699  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:06:30.451  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:06:30.767  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:06:31.468  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:06:31.852  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:06:32.519  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:06:32.902  You hit Theramore Combat Dummy for 73.
+6/29 22:06:33.637  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:06:33.970  You hit Theramore Combat Dummy for 71.
+6/29 22:06:35.038  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:06:35.755  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:06:36.833  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:06:37.023  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:06:37.907  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:06:38.207  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:06:38.975  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:06:39.243  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:06:40.060  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:06:40.344  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:06:41.412  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:06:42.163  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:06:43.213  You hit Theramore Combat Dummy for 55.
+6/29 22:06:43.429  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:06:44.231  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:06:45.517  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:06:46.366  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:06:47.401  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:06:48.451  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:06:49.753  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:06:50.553  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:06:51.654  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:06:51.905  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:06:52.734  You hit Theramore Combat Dummy for 53.
+6/29 22:06:54.040  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:06:54.911  You hit Theramore Combat Dummy for 55.
+6/29 22:06:56.177  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:06:57.037  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:06:58.112  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:06:59.396  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:07:00.213  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:07:00.463  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:07:01.281  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:07:01.532  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:07:02.616  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:07:03.434  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:07:03.701  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:07:04.468  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:07:04.702  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:07:05.486  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:07:06.521  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:07:07.539  You hit Theramore Combat Dummy for 53.
+6/29 22:07:07.772  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:07:08.573  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:07:09.640  You hit Theramore Combat Dummy for 52.
+6/29 22:07:10.975  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:07:11.775  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:07:12.043  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:07:12.877  You hit Theramore Combat Dummy for 55.
+6/29 22:07:15.230  You hit Theramore Combat Dummy for 68.
+6/29 22:07:17.147  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:07:17.398  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:07:18.466  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:07:19.266  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:07:19.500  You hit Theramore Combat Dummy for 66.
+6/29 22:07:21.402  You hit Theramore Combat Dummy for 50.
+6/29 22:07:22.453  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:07:22.670  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:07:26.607  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:07:26.868  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:07:28.726  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:07:29.827  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:07:31.179  You hit Theramore Combat Dummy for 73.
+6/29 22:07:31.930  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:07:32.943  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:07:34.099  You hit Theramore Combat Dummy for 49.
+6/29 22:07:35.366  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:07:36.166  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:07:36.384  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:07:37.235  You hit Theramore Combat Dummy for 53.
+6/29 22:07:37.486  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:07:39.387  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:07:39.654  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:07:41.489  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:07:41.706  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:07:42.524  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:07:43.642  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:07:44.692  You hit Theramore Combat Dummy for 51.
+6/29 22:07:45.711  You hit Theramore Combat Dummy for 55.
+6/29 22:07:45.928  You hit Theramore Combat Dummy for 71.
+6/29 22:07:47.845  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:07:48.096  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:07:48.946  You hit Theramore Combat Dummy for 54.
+6/29 22:07:49.230  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:07:50.018  You hit Theramore Combat Dummy for 55.
+6/29 22:07:50.249  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:07:51.349  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:07:54.586  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:07:56.321  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:07:56.705  You hit Theramore Combat Dummy for 70.
+6/29 22:07:57.305  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:07:59.391  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:07:59.742  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:08:00.476  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:08:01.476  You hit Theramore Combat Dummy for 54.
+6/29 22:08:02.511  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:08:02.995  You hit Theramore Combat Dummy for 71.
+6/29 22:08:03.512  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:08:04.513  You hit Theramore Combat Dummy for 51.
+6/29 22:08:05.079  You hit Theramore Combat Dummy for 67.
+6/29 22:08:06.098  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:08:06.732  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:08:07.116  You hit Theramore Combat Dummy for 69.
+6/29 22:08:07.783  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:08:08.784  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:08:09.869  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:08:10.235  You hit Theramore Combat Dummy for 69.
+6/29 22:08:11.254  You hit Theramore Combat Dummy for 67.
+6/29 22:08:12.003  You hit Theramore Combat Dummy for 51.
+6/29 22:08:13.105  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:08:14.172  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:08:14.456  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:08:15.257  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:08:16.342  You hit Theramore Combat Dummy for 55.
+6/29 22:08:16.542  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:08:17.360  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:08:17.593  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:08:18.527  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:08:19.545  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:08:20.595  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:08:21.930  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:08:22.682  You hit Theramore Combat Dummy for 50.
+6/29 22:08:23.033  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:08:23.766  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:08:24.133  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:08:24.850  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:08:26.886  You hit Theramore Combat Dummy for 49.
+6/29 22:08:27.253  You hit Theramore Combat Dummy for 74.
+6/29 22:08:27.970  You hit Theramore Combat Dummy for 54.
+6/29 22:08:28.996  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:08:30.090  You hit Theramore Combat Dummy for 49.
+6/29 22:08:30.490  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:08:31.207  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:08:32.191  You hit Theramore Combat Dummy for 51.
+6/29 22:08:32.541  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:08:33.292  You hit Theramore Combat Dummy for 51.
+6/29 22:08:34.360  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:08:34.594  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:08:35.378  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:08:36.428  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:08:36.662  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:08:37.713  You hit Theramore Combat Dummy for 73.
+6/29 22:08:38.681  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:08:39.516  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:08:39.767  You hit Theramore Combat Dummy for 68.
+6/29 22:08:40.567  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:08:41.651  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:08:41.917  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:08:42.652  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:08:43.002  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:08:43.702  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:08:44.070  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:08:45.105  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:08:46.172  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:08:46.898  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:08:47.990  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:08:48.991  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:08:50.060  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:08:50.377  You hit Theramore Combat Dummy for 73.
+6/29 22:08:51.426  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:08:52.478  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:08:54.665  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:08:57.483  You hit Theramore Combat Dummy for 49.
+6/29 22:08:58.534  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:08:58.885  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:09:00.671  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:09:01.054  You hit Theramore Combat Dummy for 68.
+6/29 22:09:03.206  You hit Theramore Combat Dummy for 74.
+6/29 22:09:03.940  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:09:04.257  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:09:06.058  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:09:06.409  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:09:07.143  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:09:08.178  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:09:08.578  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:09:09.263  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:09:09.696  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:09:11.314  You hit Theramore Combat Dummy for 53.
+6/29 22:09:11.765  You hit Theramore Combat Dummy for 71.
+6/29 22:09:12.382  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:09:13.516  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:09:13.950  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:09:15.535  You hit Theramore Combat Dummy for 55.
+6/29 22:09:16.036  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:09:16.614  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:09:17.104  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:09:17.571  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:09:18.206  You hit Theramore Combat Dummy for 72.
+6/29 22:09:18.573  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:09:19.255  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:09:21.742  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:09:23.527  You hit Theramore Combat Dummy for 71.
+6/29 22:09:23.776  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:09:24.543  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:09:24.882  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:09:25.546  You hit Theramore Combat Dummy for 73.
+6/29 22:09:28.767  You hit Theramore Combat Dummy for 74.
+6/29 22:09:31.251  You hit Theramore Combat Dummy for 49.
+6/29 22:09:32.914  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:09:33.453  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:09:33.987  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:09:34.455  You hit Theramore Combat Dummy for 52.
+6/29 22:09:34.972  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:09:36.022  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:09:37.074  You hit Theramore Combat Dummy for 67.
+6/29 22:09:37.641  You hit Theramore Combat Dummy for 52.
+6/29 22:09:38.057  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:09:38.676  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:09:39.142  You hit Theramore Combat Dummy for 69.
+6/29 22:09:40.178  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:09:40.795  You hit Theramore Combat Dummy for 51.
+6/29 22:09:42.262  You hit Theramore Combat Dummy for 74.
+6/29 22:09:42.846  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:09:45.432  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:09:45.999  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:09:46.467  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:09:47.017  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:09:48.052  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:09:48.520  You hit Theramore Combat Dummy for 70.
+6/29 22:09:49.087  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:09:52.239  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:09:54.375  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:09:55.861  You hit Theramore Combat Dummy for 71.
+6/29 22:09:56.443  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:09:57.961  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:09:58.563  You hit Theramore Combat Dummy for 52.
+6/29 22:09:59.046  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:10:00.164  You hit Theramore Combat Dummy for 73.
+6/29 22:10:00.735  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:10:01.249  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:10:02.284  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:10:03.368  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:10:04.018  You hit Theramore Combat Dummy for 50.
+6/29 22:10:04.368  You hit Theramore Combat Dummy for 70.
+6/29 22:10:05.068  You hit Theramore Combat Dummy for 54.
+6/29 22:10:06.421  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:10:07.238  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:10:07.489  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:10:08.322  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:10:08.607  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:10:12.609  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:10:12.860  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:10:13.761  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:10:15.046  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:10:16.932  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:10:19.350  You hit Theramore Combat Dummy for 72.
+6/29 22:10:20.051  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:10:22.221  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:10:23.587  You hit Theramore Combat Dummy for 66.
+6/29 22:10:24.304  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:10:25.389  You hit Theramore Combat Dummy for 54.
+6/29 22:10:26.409  You hit Theramore Combat Dummy for 53.
+6/29 22:10:26.791  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:10:27.442  You hit Theramore Combat Dummy for 52.
+6/29 22:10:27.825  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:10:28.475  You hit Theramore Combat Dummy for 54.
+6/29 22:10:28.860  You hit Theramore Combat Dummy for 66.
+6/29 22:10:29.460  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:10:30.511  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:10:31.028  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:10:31.596  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:10:32.130  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:10:32.630  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:10:34.232  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:10:34.683  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:10:35.734  You hit Theramore Combat Dummy for 50.
+6/29 22:10:36.384  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:10:36.835  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:10:38.953  You hit Theramore Combat Dummy for 49.
+6/29 22:10:41.007  You hit Theramore Combat Dummy for 54.
+6/29 22:10:41.691  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:10:42.057  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:10:42.707  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:10:43.091  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:10:43.742  You hit Theramore Combat Dummy for 67.
+6/29 22:10:44.075  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:10:45.143  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:10:45.861  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:10:46.244  You hit Theramore Combat Dummy for 52.
+6/29 22:10:47.362  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:10:47.968  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:10:48.429  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:10:49.080  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:10:49.481  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:10:50.099  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:10:51.133  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:10:51.583  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:10:52.184  You hit Theramore Combat Dummy for 69.
+6/29 22:10:52.602  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:10:53.618  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:10:54.286  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:10:54.647  You hit Theramore Combat Dummy for 52.
+6/29 22:10:55.704  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:10:56.456  You hit Theramore Combat Dummy for 71.
+6/29 22:10:57.557  You hit Theramore Combat Dummy for 67.
+6/29 22:10:57.874  You hit Theramore Combat Dummy for 55.
+6/29 22:10:58.606  You hit Theramore Combat Dummy for 66.
+6/29 22:11:00.025  You hit Theramore Combat Dummy for 52.
+6/29 22:11:00.775  You hit Theramore Combat Dummy for 73.
+6/29 22:11:01.127  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:11:02.227  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:11:02.862  You hit Theramore Combat Dummy for 74.
+6/29 22:11:03.246  You hit Theramore Combat Dummy for 54.
+6/29 22:11:03.962  You hit Theramore Combat Dummy for 69.
+6/29 22:11:04.313  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:11:05.064  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:11:06.065  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:11:07.416  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:11:08.501  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:11:09.334  You hit Theramore Combat Dummy for 66.
+6/29 22:11:10.602  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:11:11.653  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:11:13.873  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:11:14.909  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:11:15.958  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:11:16.751  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:11:18.929  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:11:19.928  You hit Theramore Combat Dummy for 72.
+6/29 22:11:20.229  You hit Theramore Combat Dummy for 53.
+6/29 22:11:20.963  You hit Theramore Combat Dummy for 74.
+6/29 22:11:21.364  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:11:22.415  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:11:23.501  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:11:24.568  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:11:25.184  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:11:25.652  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:11:26.302  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:11:27.337  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:11:27.820  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:11:28.422  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:11:29.956  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:11:30.555  You hit Theramore Combat Dummy for 73.
+6/29 22:11:31.090  You hit Theramore Combat Dummy for 55.
+6/29 22:11:31.557  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:11:33.244  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:11:34.260  You hit Theramore Combat Dummy for 50.
+6/29 22:11:34.778  You hit Theramore Combat Dummy for 72.
+6/29 22:11:35.811  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:11:36.412  You hit Theramore Combat Dummy for 55.
+6/29 22:11:36.912  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:11:37.464  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:11:37.947  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:11:38.566  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:11:39.049  You hit Theramore Combat Dummy for 66.
+6/29 22:11:40.084  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:11:40.684  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:11:41.168  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:11:41.751  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:11:42.269  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:11:43.286  You hit Theramore Combat Dummy for 69.
+6/29 22:11:43.920  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:11:44.337  You hit Theramore Combat Dummy for 71.
+6/29 22:11:45.004  You hit Theramore Combat Dummy for 54.
+6/29 22:11:45.455  You hit Theramore Combat Dummy for 74.
+6/29 22:11:47.157  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:11:47.624  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:11:48.686  You hit Theramore Combat Dummy for 73.
+6/29 22:11:49.242  You hit Theramore Combat Dummy for 53.
+6/29 22:11:49.777  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:11:50.292  You hit Theramore Combat Dummy for 51.
+6/29 22:11:50.743  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:11:51.360  You hit Theramore Combat Dummy for 53.
+6/29 22:11:51.811  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:11:54.982  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:11:56.750  You hit Theramore Combat Dummy for 53.
+6/29 22:11:59.854  You hit Theramore Combat Dummy for 49.
+6/29 22:12:00.286  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:12:00.904  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:12:02.389  You hit Theramore Combat Dummy for 73.
+6/29 22:12:02.989  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:12:03.523  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:12:03.974  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:12:04.558  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:12:05.610  You hit Theramore Combat Dummy for 68.
+6/29 22:12:06.093  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:12:06.711  You hit Theramore Combat Dummy for 73.
+6/29 22:12:09.245  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:12:09.830  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:12:10.330  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:12:10.915  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:12:11.349  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:12:11.983  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:12:13.016  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:12:13.449  You hit Theramore Combat Dummy for 53.
+6/29 22:12:14.051  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:12:15.635  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:12:16.736  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:12:17.238  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:12:17.704  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:12:18.733  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:12:19.306  You hit Theramore Combat Dummy for 72.
+6/29 22:12:19.839  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:12:20.341  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:12:21.425  You hit Theramore Combat Dummy for 73.
+6/29 22:12:21.958  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:12:24.011  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:12:24.644  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:12:26.129  You hit Theramore Combat Dummy for 55.
+6/29 22:12:26.803  You hit Theramore Combat Dummy for 69.
+6/29 22:12:27.214  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:12:30.034  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:12:30.350  You hit Theramore Combat Dummy for 54.
+6/29 22:12:32.503  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:12:33.220  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:12:33.570  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:12:35.372  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:12:36.457  You hit Theramore Combat Dummy for 68.
+6/29 22:12:37.474  You hit Theramore Combat Dummy for 71.
+6/29 22:12:37.875  You hit Theramore Combat Dummy for 55.
+6/29 22:12:38.892  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:12:39.910  You hit Theramore Combat Dummy for 52.
+6/29 22:12:40.904  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:12:41.679  You hit Theramore Combat Dummy for 71.
+6/29 22:12:41.996  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:12:42.763  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:12:43.815  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:12:44.833  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:12:45.834  You hit Theramore Combat Dummy for 68.
+6/29 22:12:46.184  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:12:46.868  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:12:47.235  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:12:48.319  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:12:48.920  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:12:49.989  You hit Theramore Combat Dummy for 67.
+6/29 22:12:51.021  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:12:51.473  You hit Theramore Combat Dummy for 55.
+6/29 22:12:52.023  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:12:54.192  You hit Theramore Combat Dummy for 69.
+6/29 22:12:54.626  You hit Theramore Combat Dummy for 53.
+6/29 22:12:55.227  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:12:56.244  You hit Theramore Combat Dummy for 67.
+6/29 22:12:56.762  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:12:57.863  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:12:58.346  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:12:58.956  You hit Theramore Combat Dummy for 50.
+6/29 22:12:59.397  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:13:01.516  You hit Theramore Combat Dummy for 67.
+6/29 22:13:02.600  You hit Theramore Combat Dummy for 73.
+6/29 22:13:03.152  You hit Theramore Combat Dummy for 50.
+6/29 22:13:03.618  You hit Theramore Combat Dummy for 67.
+6/29 22:13:04.687  You hit Theramore Combat Dummy for 74.
+6/29 22:13:05.270  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:13:05.720  You hit Theramore Combat Dummy for 69.
+6/29 22:13:06.821  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:13:09.992  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:13:10.592  You hit Theramore Combat Dummy for 50.
+6/29 22:13:11.626  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:13:12.093  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:13:13.145  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:13:13.762  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:13:14.246  You hit Theramore Combat Dummy for 69.
+6/29 22:13:14.807  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:13:16.281  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:13:16.915  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:13:19.068  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:13:19.451  You hit Theramore Combat Dummy for 71.
+6/29 22:13:20.520  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:13:21.654  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:13:22.188  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:13:22.637  You hit Theramore Combat Dummy for 72.
+6/29 22:13:23.222  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:13:23.722  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:13:26.341  You hit Theramore Combat Dummy for 51.
+6/29 22:13:26.974  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:13:27.475  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:13:28.076  You hit Theramore Combat Dummy for 70.
+6/29 22:13:28.460  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:13:29.178  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:13:32.715  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:13:33.282  You hit Theramore Combat Dummy for 72.
+6/29 22:13:34.317  You hit Theramore Combat Dummy for 71.
+6/29 22:13:34.767  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:13:35.835  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:13:36.385  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:13:37.870  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:13:39.956  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:13:40.673  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:13:42.742  You hit Theramore Combat Dummy for 74.
+6/29 22:13:43.109  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:13:43.793  You hit Theramore Combat Dummy for 72.
+6/29 22:13:44.826  You hit Theramore Combat Dummy for 68.
+6/29 22:13:46.344  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:13:46.963  You hit Theramore Combat Dummy for 70.
+6/29 22:13:47.412  You hit Theramore Combat Dummy for 52.
+6/29 22:13:47.997  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:13:48.448  You hit Theramore Combat Dummy for 53.
+6/29 22:13:50.117  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:13:51.117  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:13:53.686  You hit Theramore Combat Dummy for 50.
+6/29 22:13:54.778  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:13:55.271  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:13:55.855  You hit Theramore Combat Dummy for 53.
+6/29 22:13:58.574  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:13:59.074  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:14:00.703  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:14:01.143  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:14:02.845  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:14:03.347  You hit Theramore Combat Dummy for 55.
+6/29 22:14:03.913  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:14:04.414  You hit Theramore Combat Dummy for 50.
+6/29 22:14:05.064  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:14:05.432  You hit Theramore Combat Dummy for 52.
+6/29 22:14:06.149  You hit Theramore Combat Dummy for 72.
+6/29 22:14:07.267  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:14:07.685  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:14:08.335  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:14:08.702  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:14:09.753  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:14:10.487  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:14:11.972  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:14:13.640  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:14:14.106  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:14:16.193  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:14:17.793  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:14:18.260  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:14:18.828  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:14:19.262  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:14:19.880  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:14:21.030  You hit Theramore Combat Dummy for 70.
+6/29 22:14:22.033  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:14:22.500  You hit Theramore Combat Dummy for 51.
+6/29 22:14:24.234  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:14:25.785  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:14:26.435  You hit Theramore Combat Dummy for 69.
+6/29 22:14:26.853  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:14:27.537  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:14:29.639  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:14:30.108  You hit Theramore Combat Dummy for 52.
+6/29 22:14:32.175  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:14:32.825  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:14:33.193  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:14:33.860  You hit Theramore Combat Dummy for 69.
+6/29 22:14:35.445  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:14:35.946  You hit Theramore Combat Dummy for 70.
+6/29 22:14:36.996  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:14:38.098  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:14:39.649  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:14:40.234  You hit Theramore Combat Dummy for 72.
+6/29 22:14:40.728  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:14:41.335  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:14:42.503  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:14:43.503  You hit Theramore Combat Dummy for 74.
+6/29 22:14:44.521  You hit Theramore Combat Dummy for 71.
+6/29 22:14:44.871  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:14:45.656  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:14:45.940  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:14:48.191  You hit Theramore Combat Dummy for 54.
+6/29 22:14:48.810  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:14:49.293  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:14:49.809  You hit Theramore Combat Dummy for 73.
+6/29 22:14:51.377  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:14:51.995  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:14:53.546  You hit Theramore Combat Dummy for 52.
+6/29 22:14:55.833  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:14:56.417  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:14:56.784  You hit Theramore Combat Dummy for 51.
+6/29 22:14:57.418  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:14:57.851  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:14:58.469  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:14:59.537  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:15:00.004  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:15:02.106  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:15:03.241  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:15:03.824  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:15:04.941  You hit Theramore Combat Dummy for 72.
+6/29 22:15:05.910  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:15:06.393  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:15:07.412  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:15:07.996  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:15:08.495  You hit Theramore Combat Dummy for 53.
+6/29 22:15:09.079  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:15:10.131  You hit Theramore Combat Dummy for 73.
+6/29 22:15:11.181  You hit Theramore Combat Dummy for 67.
+6/29 22:15:11.666  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:15:13.318  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:15:15.487  You hit Theramore Combat Dummy for 70.
+6/29 22:15:17.605  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:15:18.072  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:15:18.673  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:15:20.826  You hit Theramore Combat Dummy for 66.
+6/29 22:15:21.259  You hit Theramore Combat Dummy for 52.
+6/29 22:15:21.859  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:15:22.294  You hit Theramore Combat Dummy for 53.
+6/29 22:15:22.926  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:15:23.462  You hit Theramore Combat Dummy for 53.
+6/29 22:15:24.411  You hit Theramore Combat Dummy for 54.
+6/29 22:15:25.046  You hit Theramore Combat Dummy for 68.
+6/29 22:15:26.080  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:15:26.597  You hit Theramore Combat Dummy for 51.
+6/29 22:15:27.165  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:15:27.616  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:15:28.662  You hit Theramore Combat Dummy for 51.
+6/29 22:15:29.234  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:15:29.717  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:15:30.335  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:15:30.769  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:15:31.386  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:15:31.836  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:15:32.938  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:15:33.504  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:15:33.940  You hit Theramore Combat Dummy for 54.
+6/29 22:15:34.606  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:15:35.006  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:15:35.690  You hit Theramore Combat Dummy for 67.
+6/29 22:15:37.726  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:15:38.260  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:15:38.759  You hit Theramore Combat Dummy for 73.
+6/29 22:15:39.794  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:15:40.413  You hit Theramore Combat Dummy for 54.
+6/29 22:15:42.565  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:15:43.049  You hit Theramore Combat Dummy for 72.
+6/29 22:15:44.116  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:15:45.202  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:15:45.750  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:15:47.252  You hit Theramore Combat Dummy for 68.
+6/29 22:15:47.853  You hit Theramore Combat Dummy for 55.
+6/29 22:15:49.472  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:15:50.089  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:15:51.607  You hit Theramore Combat Dummy for 71.
+6/29 22:15:52.607  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:15:54.759  You hit Theramore Combat Dummy for 73.
+6/29 22:15:55.243  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:15:56.294  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:15:57.313  You hit Theramore Combat Dummy for 52.
+6/29 22:15:58.931  You hit Theramore Combat Dummy for 67.
+6/29 22:16:00.015  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:16:00.616  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:16:02.167  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:16:02.618  You hit Theramore Combat Dummy for 55.
+6/29 22:16:03.669  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:16:04.303  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:16:04.803  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:16:05.371  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:16:06.389  You hit Theramore Combat Dummy for 71.
+6/29 22:16:08.591  You hit Theramore Combat Dummy for 68.
+6/29 22:16:08.991  You hit Theramore Combat Dummy for 52.
+6/29 22:16:09.593  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:16:10.109  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:16:11.059  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:16:11.644  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:16:12.077  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:16:16.933  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:16:17.366  You hit Theramore Combat Dummy for 52.
+6/29 22:16:17.951  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:16:18.401  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:16:18.967  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:16:19.436  You hit Theramore Combat Dummy for 51.
+6/29 22:16:19.986  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:16:20.536  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:16:21.053  You hit Theramore Combat Dummy for 68.
+6/29 22:16:21.587  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:16:22.672  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:16:24.190  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:16:24.774  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:16:25.207  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:16:25.758  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:16:26.325  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:16:26.893  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:16:27.443  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:16:29.511  You hit Theramore Combat Dummy for 73.
+6/29 22:16:29.980  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:16:30.579  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:16:30.980  You hit Theramore Combat Dummy for 53.
+6/29 22:16:31.681  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:16:35.885  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:16:36.236  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:16:37.320  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:16:37.987  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:16:39.022  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:16:39.356  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:16:40.490  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:16:41.106  You hit Theramore Combat Dummy for 70.
+6/29 22:16:42.192  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:16:42.525  You hit Theramore Combat Dummy for 51.
+6/29 22:16:43.226  You hit Theramore Combat Dummy for 67.
+6/29 22:16:44.361  You hit Theramore Combat Dummy for 74.
+6/29 22:16:45.428  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:16:47.614  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:16:47.864  You hit Theramore Combat Dummy for 50.
+6/29 22:16:49.066  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:16:49.750  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:16:50.083  You hit Theramore Combat Dummy for 51.
+6/29 22:16:50.767  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:16:52.135  You hit Theramore Combat Dummy for 51.
+6/29 22:16:54.304  You hit Theramore Combat Dummy for 49.
+6/29 22:16:56.189  You hit Theramore Combat Dummy for 70.
+6/29 22:16:56.456  You hit Theramore Combat Dummy for 54.
+6/29 22:16:57.191  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:16:58.525  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:17:00.577  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:17:01.277  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:17:01.661  You hit Theramore Combat Dummy for 55.
+6/29 22:17:02.396  You hit Theramore Combat Dummy for 66.
+6/29 22:17:02.730  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:17:03.480  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:17:04.831  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:17:05.683  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:17:06.617  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:17:07.013  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:17:08.753  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:17:10.203  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:17:12.240  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:17:13.140  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:17:14.374  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:17:15.158  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:17:15.441  You hit Theramore Combat Dummy for 50.
+6/29 22:17:16.276  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:17:17.260  You hit Theramore Combat Dummy for 67.
+6/29 22:17:18.294  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:17:18.695  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:17:19.364  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:17:20.382  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:17:20.882  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:17:21.432  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:17:22.016  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:17:22.500  You hit Theramore Combat Dummy for 73.
+6/29 22:17:25.703  You hit Theramore Combat Dummy for 69.
+6/29 22:17:28.356  You hit Theramore Combat Dummy for 54.
+6/29 22:17:32.092  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:17:32.642  You hit Theramore Combat Dummy for 53.
+6/29 22:17:33.076  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:17:34.728  You hit Theramore Combat Dummy for 51.
+6/29 22:17:35.196  You hit Theramore Combat Dummy for 68.
+6/29 22:17:35.797  You hit Theramore Combat Dummy for 50.
+6/29 22:17:36.230  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:17:36.780  You hit Theramore Combat Dummy for 55.
+6/29 22:17:37.832  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:17:38.281  You hit Theramore Combat Dummy for 72.
+6/29 22:17:38.860  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:17:39.951  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:17:41.553  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:17:42.069  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:17:43.620  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:17:44.104  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:17:45.138  You hit Theramore Combat Dummy for 49.
+6/29 22:17:46.223  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:17:46.857  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:17:47.258  You hit Theramore Combat Dummy for 54.
+6/29 22:17:47.993  You hit Theramore Combat Dummy for 68.
+6/29 22:17:50.111  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:17:51.195  You hit Theramore Combat Dummy for 73.
+6/29 22:17:51.562  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:17:52.262  You hit Theramore Combat Dummy for 67.
+6/29 22:17:52.596  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:17:53.614  You hit Theramore Combat Dummy for 50.
+6/29 22:17:54.650  You hit Theramore Combat Dummy for 50.
+6/29 22:17:55.484  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:17:55.683  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:17:56.551  You hit Theramore Combat Dummy for 73.
+6/29 22:17:57.702  You hit Theramore Combat Dummy for 66.
+6/29 22:17:58.670  You hit Theramore Combat Dummy for 70.
+6/29 22:17:59.007  You hit Theramore Combat Dummy for 54.
+6/29 22:17:59.787  You hit Theramore Combat Dummy for 71.
+6/29 22:18:00.038  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:18:00.822  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:18:01.840  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:18:02.073  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:18:03.941  You hit Theramore Combat Dummy for 74.
+6/29 22:18:04.159  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:18:06.261  You hit Theramore Combat Dummy for 49.
+6/29 22:18:06.995  You hit Theramore Combat Dummy for 74.
+6/29 22:18:08.062  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:18:09.381  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:18:10.182  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:18:12.334  You hit Theramore Combat Dummy for 66.
+6/29 22:18:13.685  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:18:14.386  You hit Theramore Combat Dummy for 67.
+6/29 22:18:14.736  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:18:15.787  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:18:16.522  You hit Theramore Combat Dummy for 69.
+6/29 22:18:20.125  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:18:21.160  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:18:21.776  You hit Theramore Combat Dummy for 69.
+6/29 22:18:22.227  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:18:22.894  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:18:24.278  You hit Theramore Combat Dummy for 50.
+6/29 22:18:24.995  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:18:26.448  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:18:27.099  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:18:27.467  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:18:29.518  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:18:30.235  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:18:30.553  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:18:31.270  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:18:31.620  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:18:32.321  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:18:34.756  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:18:35.791  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:18:36.642  You hit Theramore Combat Dummy for 71.
+6/29 22:18:38.010  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:18:39.127  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:18:39.829  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:18:40.163  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:18:40.864  You hit Theramore Combat Dummy for 68.
+6/29 22:18:41.213  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:18:41.947  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:18:42.297  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:18:43.349  You hit Theramore Combat Dummy for 49.
+6/29 22:18:43.966  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:18:45.469  You hit Theramore Combat Dummy for 50.
+6/29 22:18:46.185  You hit Theramore Combat Dummy for 73.
+6/29 22:18:49.322  You hit Theramore Combat Dummy for 73.
+6/29 22:18:49.655  You hit Theramore Combat Dummy for 51.
+6/29 22:18:50.356  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:18:51.791  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:18:52.474  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:18:52.825  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:18:53.558  You hit Theramore Combat Dummy for 74.
+6/29 22:18:55.611  You hit Theramore Combat Dummy for 67.
+6/29 22:18:56.679  You hit Theramore Combat Dummy for 73.
+6/29 22:18:57.780  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:18:59.932  You hit Theramore Combat Dummy for 74.
+6/29 22:19:00.433  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:19:02.101  You hit Theramore Combat Dummy for 73.
+6/29 22:19:02.568  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:19:03.636  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:19:04.703  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:19:05.322  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:19:05.756  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:19:06.739  You hit Theramore Combat Dummy for 51.
+6/29 22:19:08.857  You hit Theramore Combat Dummy for 52.
+6/29 22:19:09.875  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:19:10.693  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:19:10.960  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:19:11.711  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:19:12.761  You hit Theramore Combat Dummy for 70.
+6/29 22:19:13.095  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:19:15.248  You hit Theramore Combat Dummy for 49.
+6/29 22:19:16.265  You hit Theramore Combat Dummy for 50.
+6/29 22:19:17.299  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:19:18.018  You hit Theramore Combat Dummy for 71.
+6/29 22:19:18.334  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:19:19.102  You hit Theramore Combat Dummy for 70.
+6/29 22:19:19.420  You hit Theramore Combat Dummy for 52.
+6/29 22:19:20.470  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:19:21.121  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:19:21.505  You hit Theramore Combat Dummy for 52.
+6/29 22:19:22.522  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:19:23.239  You hit Theramore Combat Dummy for 69.
+6/29 22:19:23.623  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:19:24.341  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:19:25.358  You hit Theramore Combat Dummy for 72.
+6/29 22:19:26.376  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:19:26.760  You hit Theramore Combat Dummy for 52.
+6/29 22:19:27.494  You hit Theramore Combat Dummy for 66.
+6/29 22:19:27.861  You hit Theramore Combat Dummy for 55.
+6/29 22:19:28.495  You hit Theramore Combat Dummy for 73.
+6/29 22:19:30.547  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:19:31.082  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:19:31.649  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:19:32.115  You hit Theramore Combat Dummy for 54.
+6/29 22:19:33.201  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:19:33.783  You hit Theramore Combat Dummy for 69.
+6/29 22:19:34.853  You hit Theramore Combat Dummy for 72.
+6/29 22:19:35.352  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:19:35.903  You hit Theramore Combat Dummy for 66.
+6/29 22:19:36.370  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:19:37.370  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:19:39.540  You hit Theramore Combat Dummy for 49.
+6/29 22:19:40.140  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:19:40.574  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:19:41.225  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:19:41.591  You hit Theramore Combat Dummy for 52.
+6/29 22:19:42.326  You hit Theramore Combat Dummy for 66.
+6/29 22:19:42.677  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:19:44.428  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:19:45.963  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:19:46.530  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:19:46.996  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:19:47.564  You hit Theramore Combat Dummy for 67.
+6/29 22:19:48.032  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:19:48.583  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:19:49.066  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:19:49.684  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:19:50.151  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:19:50.734  You hit Theramore Combat Dummy for 69.
+6/29 22:19:51.218  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:19:51.818  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:19:52.236  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:19:52.837  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:19:53.303  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:19:54.972  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:19:55.423  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:19:56.022  You hit Theramore Combat Dummy for 72.
+6/29 22:19:57.090  You hit Theramore Combat Dummy for 72.
+6/29 22:19:58.191  You hit Theramore Combat Dummy for 72.
+6/29 22:19:59.277  You hit Theramore Combat Dummy for 69.
+6/29 22:20:00.394  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:20:00.711  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:20:01.379  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:20:01.846  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:20:03.513  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:20:05.650  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:20:06.033  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:20:07.068  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:20:07.786  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:20:08.186  You hit Theramore Combat Dummy for 50.
+6/29 22:20:08.870  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:20:09.286  You hit Theramore Combat Dummy for 54.
+6/29 22:20:09.920  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:20:11.038  You hit Theramore Combat Dummy for 69.
+6/29 22:20:11.289  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:20:12.089  You hit Theramore Combat Dummy for 70.
+6/29 22:20:12.357  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:20:13.090  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:20:13.341  You hit Theramore Combat Dummy for 53.
+6/29 22:20:14.158  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:20:14.775  You hit Theramore Combat Dummy for 53.
+6/29 22:20:16.293  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:20:16.830  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:20:17.329  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:20:19.514  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:20:19.997  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:20:21.684  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:20:22.751  You hit Theramore Combat Dummy for 67.
+6/29 22:20:23.886  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:20:24.302  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:20:24.936  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:20:25.387  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:20:25.987  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:20:26.471  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:20:27.576  You hit Theramore Combat Dummy for 51.
+6/29 22:20:28.573  You hit Theramore Combat Dummy for 49.
+6/29 22:20:29.174  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:20:30.641  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:20:31.259  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:20:31.742  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:20:34.344  You hit Theramore Combat Dummy for 72.
+6/29 22:20:34.971  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:20:35.412  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:20:36.080  You hit Theramore Combat Dummy for 51.
+6/29 22:20:36.514  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:20:37.116  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:20:39.233  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:20:39.702  You hit Theramore Combat Dummy for 66.
+6/29 22:20:40.317  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:20:41.369  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:20:41.837  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:20:42.405  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:20:42.890  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:20:43.522  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:20:43.989  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:20:44.555  You hit Theramore Combat Dummy for 51.
+6/29 22:20:44.989  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:20:45.589  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:20:46.657  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:20:47.709  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:20:48.193  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:20:48.778  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:20:49.277  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:20:49.811  You hit Theramore Combat Dummy for 50.
+6/29 22:20:50.328  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:20:50.911  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:20:52.013  You hit Theramore Combat Dummy for 49.
+6/29 22:20:52.429  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:20:53.049  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:20:53.516  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:20:54.066  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:20:55.618  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:20:57.252  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:20:57.702  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:20:58.336  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:20:58.720  You hit Theramore Combat Dummy for 73.
+6/29 22:20:59.739  You hit Theramore Combat Dummy for 72.
+6/29 22:21:00.856  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:21:01.540  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:21:01.891  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:21:02.978  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:21:04.009  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:21:04.776  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:21:05.827  You hit Theramore Combat Dummy for 54.
+6/29 22:21:06.062  You hit Theramore Combat Dummy for 74.
+6/29 22:21:07.061  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:21:07.864  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:21:08.097  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:21:08.919  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:21:10.283  You hit Theramore Combat Dummy for 74.
+6/29 22:21:10.967  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:21:11.333  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:21:12.101  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:21:13.152  You hit Theramore Combat Dummy for 51.
+6/29 22:21:13.502  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:21:14.168  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:21:15.237  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:21:16.405  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:21:16.779  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:21:17.390  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:21:18.942  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:21:19.992  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:21:20.592  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:21:21.076  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:21:21.610  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:21:22.678  You hit Theramore Combat Dummy for 50.
+6/29 22:21:23.145  You hit Theramore Combat Dummy for 71.
+6/29 22:21:23.746  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:21:24.229  You hit Theramore Combat Dummy for 74.
+6/29 22:21:24.830  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:21:25.331  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:21:26.415  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:21:26.977  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:21:28.016  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:21:28.500  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:21:29.518  You hit Theramore Combat Dummy for 68.
+6/29 22:21:30.069  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:21:31.136  You hit Theramore Combat Dummy for 50.
+6/29 22:21:31.620  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:21:32.187  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:21:32.738  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:21:33.189  You hit Theramore Combat Dummy for 51.
+6/29 22:21:33.722  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:21:34.273  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:21:34.757  You hit Theramore Combat Dummy for 70.
+6/29 22:21:35.375  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:21:35.841  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:21:36.876  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:21:37.476  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:21:38.494  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:21:39.512  You hit Theramore Combat Dummy for 50.
+6/29 22:21:40.029  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:21:41.147  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:21:42.198  You hit Theramore Combat Dummy for 73.
+6/29 22:21:42.790  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:21:44.834  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:21:45.418  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:21:47.487  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:21:48.086  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:21:50.106  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:21:51.123  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:21:51.841  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:21:54.277  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:21:55.027  You hit Theramore Combat Dummy for 72.
+6/29 22:21:56.446  You hit Theramore Combat Dummy for 55.
+6/29 22:21:58.214  You hit Theramore Combat Dummy for 70.
+6/29 22:21:58.498  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:22:02.485  You hit Theramore Combat Dummy for 74.
+6/29 22:22:02.729  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:22:03.587  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:22:03.853  You hit Theramore Combat Dummy for 54.
+6/29 22:22:04.654  You hit Theramore Combat Dummy for 72.
+6/29 22:22:04.904  You hit Theramore Combat Dummy for 54.
+6/29 22:22:05.721  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:22:06.756  You hit Theramore Combat Dummy for 66.
+6/29 22:22:07.023  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:22:07.841  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:22:08.091  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:22:08.875  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:22:09.092  You hit Theramore Combat Dummy for 55.
+6/29 22:22:10.209  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:22:11.077  You hit Theramore Combat Dummy for 69.
+6/29 22:22:12.111  You hit Theramore Combat Dummy for 68.
+6/29 22:22:12.328  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:22:13.146  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:22:13.413  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:22:14.181  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:22:15.532  You hit Theramore Combat Dummy for 54.
+6/29 22:22:16.616  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:22:17.752  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:22:18.535  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:22:19.920  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:22:20.737  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:22:20.971  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:22:21.805  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:22:22.055  You hit Theramore Combat Dummy for 50.
+6/29 22:22:22.810  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:22:24.223  You hit Theramore Combat Dummy for 51.
+6/29 22:22:24.957  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:22:25.308  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:22:26.409  You hit Theramore Combat Dummy for 51.
+6/29 22:22:27.060  You hit Theramore Combat Dummy for 70.
+6/29 22:22:27.444  You hit Theramore Combat Dummy for 55.
+6/29 22:22:28.145  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:22:28.495  You hit Theramore Combat Dummy for 50.
+6/29 22:22:29.230  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:22:29.563  You hit Theramore Combat Dummy for 54.
+6/29 22:22:30.714  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:22:31.415  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:22:31.782  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:22:32.816  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:22:33.884  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:22:35.652  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:22:36.020  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:22:36.708  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:22:37.087  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:22:38.879  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:22:39.222  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:22:39.923  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:22:40.257  You hit Theramore Combat Dummy for 53.
+6/29 22:22:41.325  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:22:42.026  You hit Theramore Combat Dummy for 71.
+6/29 22:22:43.094  You hit Theramore Combat Dummy for 71. (glancing)
+6/29 22:22:44.110  You hit Theramore Combat Dummy for 66.
+6/29 22:22:45.610  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:22:46.197  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:22:47.265  You hit Theramore Combat Dummy for 71.
+6/29 22:22:48.733  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:22:49.483  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:22:49.767  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:22:50.834  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:22:51.635  You hit Theramore Combat Dummy for 69.
+6/29 22:22:51.886  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:22:52.719  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:22:53.804  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:22:54.894  You hit Theramore Combat Dummy for 73.
+6/29 22:22:55.223  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:22:58.025  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:22:58.275  You hit Theramore Combat Dummy for 51.
+6/29 22:22:59.310  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:23:00.227  You hit Theramore Combat Dummy for 72. (glancing)
+6/29 22:23:00.478  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:23:01.245  You hit Theramore Combat Dummy for 71.
+6/29 22:23:02.296  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:23:04.448  You hit Theramore Combat Dummy for 66.
+6/29 22:23:04.699  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:23:05.551  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:23:06.551  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:23:07.886  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:23:09.037  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:23:09.804  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:23:10.103  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:23:10.838  You hit Theramore Combat Dummy for 68.
+6/29 22:23:12.239  You hit Theramore Combat Dummy for 51.
+6/29 22:23:13.291  You hit Theramore Combat Dummy for 55.
+6/29 22:23:15.444  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:23:16.227  You hit Theramore Combat Dummy for 68.
+6/29 22:23:16.561  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:23:17.345  You hit Theramore Combat Dummy for 74.
+6/29 22:23:17.578  You hit Theramore Combat Dummy for 49.
+6/29 22:23:18.690  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:23:19.748  You hit Theramore Combat Dummy for 51. (glancing)
+6/29 22:23:20.415  You hit Theramore Combat Dummy for 69.
+6/29 22:23:20.749  You hit Theramore Combat Dummy for 52.
+6/29 22:23:21.833  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:23:22.901  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:23:25.032  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:23:25.770  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:23:26.815  You hit Theramore Combat Dummy for 73.
+6/29 22:23:27.205  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:23:27.906  You hit Theramore Combat Dummy for 74. (glancing)
+6/29 22:23:28.256  You hit Theramore Combat Dummy for 54.
+6/29 22:23:30.358  You hit Theramore Combat Dummy for 55.
+6/29 22:23:31.075  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:23:31.426  You hit Theramore Combat Dummy for 52.
+6/29 22:23:33.511  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:23:35.330  You hit Theramore Combat Dummy for 67.
+6/29 22:23:35.630  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:23:38.550  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:23:39.619  You hit Theramore Combat Dummy for 72.
+6/29 22:23:39.902  You hit Theramore Combat Dummy for 55.
+6/29 22:23:40.686  You hit Theramore Combat Dummy for 67. (glancing)
+6/29 22:23:40.919  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:23:43.805  You hit Theramore Combat Dummy for 74.
+6/29 22:23:46.308  You hit Theramore Combat Dummy for 51.
+6/29 22:23:48.160  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:23:48.426  You hit Theramore Combat Dummy for 50.
+6/29 22:23:49.228  You hit Theramore Combat Dummy for 67.
+6/29 22:23:49.461  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:23:50.479  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:23:51.598  You hit Theramore Combat Dummy for 55. (glancing)
+6/29 22:23:52.365  You hit Theramore Combat Dummy for 68. (glancing)
+6/29 22:23:53.399  You hit Theramore Combat Dummy for 70. (glancing)
+6/29 22:23:55.450  You hit Theramore Combat Dummy for 73.
+6/29 22:23:55.884  You hit Theramore Combat Dummy for 49. (glancing)
+6/29 22:23:57.970  You hit Theramore Combat Dummy for 50. (glancing)
+6/29 22:23:58.671  You hit Theramore Combat Dummy for 73.
+6/29 22:23:59.688  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:24:00.055  You hit Theramore Combat Dummy for 53. (glancing)
+6/29 22:24:00.739  You hit Theramore Combat Dummy for 73. (glancing)
+6/29 22:24:01.073  You hit Theramore Combat Dummy for 52. (glancing)
+6/29 22:24:02.791  You hit Theramore Combat Dummy for 69.
+6/29 22:24:04.193  You hit Theramore Combat Dummy for 52.
+6/29 22:24:04.893  You hit Theramore Combat Dummy for 69. (glancing)
+6/29 22:24:05.961  You hit Theramore Combat Dummy for 66. (glancing)
+6/29 22:24:06.976  You hit Theramore Combat Dummy for 71.
+6/29 22:24:07.346  You hit Theramore Combat Dummy for 51.
+6/29 22:24:09.064  You hit Theramore Combat Dummy for 72.
+6/29 22:24:09.398  You hit Theramore Combat Dummy for 54. (glancing)
+6/29 22:24:11.217  You hit Theramore Combat Dummy for 73.
+6/29 22:24:12.218  You hit Theramore Combat Dummy for 66.
