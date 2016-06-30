@@ -1,5 +1,6 @@
 <?php
 	$dataToScan = array(
+		"weaponSkill0" 		=> file_get_contents("0skill.txt"),
 		"weaponSkill5" 		=> file_get_contents("5skill.txt"),
 		"weaponSkill11" 	=> file_get_contents("11skill.txt")
 	);
